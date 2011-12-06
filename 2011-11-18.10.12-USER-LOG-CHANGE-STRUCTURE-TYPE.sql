@@ -1,0 +1,1 @@
+ALTER TABLE `user_log` CHANGE `type` `type` VARCHAR( 255 ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL 
